@@ -20,23 +20,20 @@ Reference No : 25018441
 
 **THEORY:**
 
-
 *Kirchhoff’s Current Law (KCL) states that, ‘in an electric network, the algebraic sum of currents meeting at any junction is zero’. Since charges can never accumulate at any point, the charges flowing towards a junction must be equal to the charges flowing away from the junction.*
 
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
 **CIRCUIT DIAGRAM:**
-
-![WhatsApp Image 2025-12-19 at 22 59 24_0b6c3cf6](https://github.com/user-attachments/assets/72830fd6-9927-4804-9ea4-ade9a790c83c)
+<img width="1201" height="1280" alt="image" src="https://github.com/user-attachments/assets/fafdefd1-33a3-4cc1-acaa-77cbb33824ba" />
 
 **TABULAR COLUMN**
 
-![WhatsApp Image 2025-12-19 at 23 01 54_fef4d424](https://github.com/user-attachments/assets/91d3f6ef-e4c7-4797-8dd5-02421dab84df)
+<img width="1280" height="826" alt="image" src="https://github.com/user-attachments/assets/e70c49bd-6c6c-4fc2-a2dd-53c3ec0ced97" />
+
 
 **CALCULATION**
-
-![WhatsApp Image 2025-12-19 at 23 02 19_a9bd0ef3](https://github.com/user-attachments/assets/0852247a-6d16-4c0d-8dda-5239880635f5)
-![WhatsApp Image 2025-12-19 at 23 02 49_c1f85237](https://github.com/user-attachments/assets/edfccb52-f9dd-4a6d-87dd-0124fe7842dd)
+<img width="729" height="1194" alt="image" src="https://github.com/user-attachments/assets/dcd2f53c-3fc4-4d5e-bb68-def771102bdc" />
 
 **PROCEDURE:**
 
@@ -53,10 +50,8 @@ Reference No : 25018441
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
  **MARKS SPLIT UP**
- ![WhatsApp Image 2025-12-19 at 23 03 10_758eef35](https://github.com/user-attachments/assets/4b6502e5-b399-42f5-a143-c1e896466276)
-
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/2895d114-9c13-4840-9a57-77708f9e8668" />
 
 **RESULT:**
-
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
