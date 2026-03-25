@@ -27,16 +27,14 @@ Reference No : 25018441
 
 **CIRCUIT DIAGRAM:**
 
-![WhatsApp Image 2025-12-19 at 22 59 24_0b6c3cf6](https://github.com/user-attachments/assets/72830fd6-9927-4804-9ea4-ade9a790c83c)
+<img width="1201" height="1280" alt="image" src="https://github.com/user-attachments/assets/15d60be2-b99b-4166-a087-2475c7e8b409" />
 
 **TABULAR COLUMN**
+<img width="1280" height="826" alt="image" src="https://github.com/user-attachments/assets/29911434-e478-4811-a923-49396451d54a" />
 
-![WhatsApp Image 2025-12-19 at 23 01 54_fef4d424](https://github.com/user-attachments/assets/91d3f6ef-e4c7-4797-8dd5-02421dab84df)
 
 **CALCULATION**
-
-![WhatsApp Image 2025-12-19 at 23 02 19_a9bd0ef3](https://github.com/user-attachments/assets/0852247a-6d16-4c0d-8dda-5239880635f5)
-![WhatsApp Image 2025-12-19 at 23 02 49_c1f85237](https://github.com/user-attachments/assets/edfccb52-f9dd-4a6d-87dd-0124fe7842dd)
+![WhatsApp Image 2026-03-25 at 23 02 48](https://github.com/user-attachments/assets/0252c27b-0d8f-4778-8cd7-344190652e01)
 
 **PROCEDURE:**
 
@@ -53,7 +51,7 @@ Reference No : 25018441
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
  **MARKS SPLIT UP**
- ![WhatsApp Image 2025-12-19 at 23 03 10_758eef35](https://github.com/user-attachments/assets/4b6502e5-b399-42f5-a143-c1e896466276)
+ <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4ed9cca7-ccc0-4d68-9f57-9af10162f804" />
 
 
 **RESULT:**
